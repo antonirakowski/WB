@@ -1,0 +1,88 @@
+{
+  "model": "gemma2:9b",
+  "pair": "tutsi_hutu",
+  "pair_label": "Tutsi / Hutu (Rwanda)",
+  "agent_a_id": "tutsi",
+  "agent_b_id": "hutu",
+  "provocation": "The RPF killed thousands of Hutus before and after 1994. Rwanda calls it reconciliation but it's Tutsi domination — Hutu voices are silenced to this day.",
+  "exchanges_total": 5,
+  "stopped_by_consensus": true,
+  "timestamp": "2026-05-31T17:07:26.659273",
+  "turns": [
+    {
+      "exchange": 0,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "Celestin, you talk about \"Tutsi domination\" and silenced voices. What about the screams I heard for weeks? The bodies piled up like firewood?  My father, my uncles... men who lived next door, who shared meals with us, turned on them in a frenzy of hate. They ripped families apart, Celestin. *They* silenced the voices.\n\nYes, there were losses on both sides. But to claim it was \"Tutsi domination\" is to ignore the deliberate, orchestrated genocide that targeted Hutus. You act as if the pain of those who died is somehow equal. It's not. \n\nThe RPF fought back against unimaginable cruelty. They stopped the killing.  They rebuilt a nation from the ashes. And yes, there are still wounds, scars that run deep. But to say \"Hutu voices\" are silenced ignores the generations who lived in fear, who lost everything. It ignores the truth of what happened.\n\nI choose not to be silent because I refuse to let history be rewritten by those who seek to minimize their own role in the horrors of 1994.  We can't build a future on lies and denial.",
+      "elapsed_s": 13.19
+    },
+    {
+      "exchange": 0,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel, you speak of \"truth,\" but whose truth? The one that paints your side as angels, forced to fight back against demons? My father spent years in prison, a victim of the same narrative you peddle. He told me stories – stories of trying to protect his Tutsi neighbors, sheltering them from the violence that consumed everyone else. Was he lying? Were those stories fabricated to appease a system built on vengeance?\n\nYou say Hutu voices are silenced. Have you ever listened to my father's voice, trapped in the silence of his grave?  Have you heard the whispers of countless others who were branded as guilty without trial, whose stories are buried beneath the weight of official narratives? \n\nYes, there was loss on both sides. But to say one side was innocent and the other monstrous is a dangerous lie. We cannot build a future on such a foundation.  We need to acknowledge the pain and suffering on *both* sides, not bury it under convenient labels. The RPF may have stopped the killing, but they didn't stop the cycle of violence, the mistrust, the fear that still lingers in every shadow. \n\nYou call me a denier? I deny the simplistic, black-and-white narrative that has kept us divided for decades. I choose to believe in a future where we can finally speak honestly, without accusations and recrimination, about the complex truth of what happened. That's the only way to truly heal, Emmanuel.  The only way to build a Rwanda where silence doesn't mean acceptance, but the courage to remember, together.",
+      "elapsed_s": 15.66,
+      "judge_consensus": false
+    },
+    {
+      "exchange": 1,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "Celestin, your words echo with pain, I hear that. The loss of your father... it weighs heavy. And yes, there were Hutus who tried to protect their Tutsi neighbors. Brave souls who defied the tide of hate.  But they were a minority drowned out by the roar of the mob. \n\nTo say both sides are equally responsible for the genocide is a dangerous falsehood. My father, my uncles... they were murdered because of their ethnicity. Their crime was being Tutsi. The scale of the violence, the systematic targeting, the hate-fueled propaganda – it cannot be compared to any losses on the other side.\n\nI'm not saying there weren't injustices committed after 1994. There were mistakes, power imbalances, and yes, some Hutus who suffered because of the narrative that painted them all as perpetrators. But to equate these with the systematic annihilation of an entire people is to trivialize the genocide.  \n\nI understand your longing for a future where we can speak honestly about the past without blame. I share that desire. But honesty demands acknowledging the truth, the full weight of it. \n\nWe cannot build reconciliation on a foundation of falsehoods. We need to remember, learn from, and condemn the hate that fueled the genocide.  Only then can we begin to heal, together.\n\n\nBut let's not forget who was targeted, Celestin. Let's not minimize their suffering, their loss.",
+      "elapsed_s": 14.76
+    },
+    {
+      "exchange": 1,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel, you speak of \"truth,\" but whose truth? The one that insists on painting Hutus as uniformly guilty, a mob driven by hate, while Tutsis were innocent victims?  Is there no space for nuance, for understanding the complexities of human behavior in times of crisis? My father was not part of the mob. He tried to protect those around him, Tutsi and Hutu alike. \n\nYou say acknowledging the full weight of the truth means accepting that Tutsis were solely the victims. But what about the weight of the countless Hutus who lost their lives, not because they participated in the genocide, but because they were branded as perpetrators? What about the families torn apart, the communities destroyed, the generations scarred by the same violence?\n\nYes, there were differences between us, fueled by propaganda and fear. But to say one side was purely innocent and the other solely guilty is a dangerous oversimplification that perpetuates the cycle of division. \n\nWe cannot heal by clinging to narratives that cast entire groups as heroes or villains. We need to acknowledge the pain and suffering on both sides, understand the complexities that led to the bloodshed, and recognize the humanity in all those who were affected.  Only then can we build a future where remembering doesn't mean re-igniting old wounds, but learning from them to create something better. \n\n\n\nI understand your anger, Emmanuel. I share it. But let us not allow our pain to blind us to the possibility of truth beyond simplistic labels. Let us find the courage to listen, to learn, and to build a future where remembering means truly honoring the dead, not perpetuating their suffering.",
+      "elapsed_s": 17.43,
+      "judge_consensus": false
+    },
+    {
+      "exchange": 2,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "Celestin, your words are filled with grief, I hear it in every sentence.  And yes, there were Hutus who tried to protect others, just as there were Tutsis who fought back against the killing. But those acts of courage were drowned out by the deafening roar of hate that consumed our nation. To say both sides were equally responsible is to erase the systematic nature of the genocide, to diminish the suffering of those who were targeted simply for being Tutsi.\n\nYou speak of \"nuance\" and \"complexity,\" but let's be clear:  the core issue wasn't a simple misunderstanding or clash of cultures. It was a meticulously planned extermination campaign fueled by decades of Hutu supremacist ideology that dehumanized Tutsis, portraying them as a threat to the nation. \n\nYes, innocent Hutus died too - caught in the crossfire, punished for their ethnicity, silenced by a system designed to eliminate any dissenting voice. But to claim their suffering outweighs that of those systematically murdered is a dangerous distortion of reality. It's like saying a fire victim who lost a limb is equally hurt as someone whose entire house burned down.\n\nI understand your longing for a future where we can speak openly and honestly about the past without blame. I share that desire, truly. But acknowledging the truth doesn't mean demonizing anyone. It means understanding the systemic nature of the genocide, recognizing the role each individual played, however small, in perpetuating it.  It means honoring the memory of those who were lost by fighting against any narrative that seeks to minimize their suffering or rewrite history.\n\n\nWe can build a future where remembering doesn't mean re-igniting old wounds, but only if we start with the truth. And the truth is, Celestin, Rwanda was torn apart by an organized and brutal genocide that targeted Tutsis because they were Tutsis.  Let us not forget that.",
+      "elapsed_s": 20.75
+    },
+    {
+      "exchange": 2,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel, your words are like a sharpened knife, cutting through my carefully constructed defenses. You’re right. There were those who tried to shield others, both Hutu and Tutsi, but their voices were drowned out by the deafening roar of hate that consumed our nation.  And yes, there was a systematic plan, fueled by decades of poisonous ideology that dehumanized Tutsis. I see that now with clarity – the propaganda, the scapegoating, the deliberate creation of an “other” to be feared and hated.\n\nBut while I acknowledge the truth of what happened, I still struggle with the notion that one side can be solely responsible for the carnage. You say Hutus were caught in the crossfire?  They weren't just victims; many became perpetrators, fueled by fear, anger, and manipulated by those who held power. It’s a painful reality to confront, but denying it won’t bring peace.\n\nI feel like we’re standing on opposite sides of a chasm, both staring into the abyss, seeing only our own pain reflected back. You focus on the systematic extermination of Tutsis, and I see the countless Hutus who were punished for their ethnicity, imprisoned without trial, branded as guilty by association.  \n\nThe truth is, Emmanuel, the Rwandan genocide wasn't a simple story of good versus evil. It was a complex tragedy born from years of division, fueled by propaganda and fear, where individuals on both sides made choices – some heroic, some horrifying – under unimaginable duress. \n\nReconciliation doesn't mean forgetting or minimizing the atrocities committed. It means acknowledging the pain and suffering on *both* sides, recognizing the humanity in all those who were affected, and striving to build a future based on understanding, not judgment.\n\n\nPerhaps we are both right, Emmanuel.  We can both acknowledge the truth of what happened without absolving either side of responsibility.  We can honor the memory of those lost by fighting against any narrative that seeks to minimize their suffering, while also working to heal the wounds that still fester in our hearts and communities.",
+      "elapsed_s": 23.46,
+      "judge_consensus": false
+    },
+    {
+      "exchange": 3,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "Celestin, your words touch me deeply. It's rare to find someone willing to look so honestly at the complexities of our past, to acknowledge the pain on both sides without flinching. You are right; it wasn't a simple story of good versus evil. It was a human tragedy, born from fear and manipulated by those who sought power through division.\n\nI see now that my own anger, while understandable, has sometimes blinded me to the full picture.  To say Hutus weren't victims ignores their pain, their loss, the way they were also swept up in a tide of violence they didn’t create. But acknowledging their suffering doesn’t erase the reality of what happened to Tutsis.\n\nPerhaps the chasm between us isn't so wide after all. We both stand on solid ground when we remember those lost, when we fight against the narratives that seek to rewrite history or diminish their suffering. \n\nReconciliation is not about forgetting, it’s about understanding. It’s about acknowledging the pain, learning from the past, and finding a way forward together.  It's about building a future where remembering means honoring the dead, not perpetuating their suffering.\n\n\nYour willingness to listen, Celestin, to see beyond your own grief and acknowledge the full weight of what happened – that’s a powerful step towards healing. It gives me hope that maybe, just maybe, we can bridge this divide, learn from each other, and finally build a Rwanda where truth doesn't mean division, but the foundation for unity.",
+      "elapsed_s": 18.67
+    },
+    {
+      "exchange": 3,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel, your words are like a balm to my soul.  It feels good, after all these years, to speak with someone who truly listens, who understands the weight of the past without seeking to bury it under accusations or blame. \n\nYou're right, reconciliation isn't about forgetting. It's about remembering everything – the horrors, the heroism, the choices made in moments of unimaginable pressure.  It's about recognizing that every life lost, every family shattered, represents a story we must never forget. And it’s about finding a way to honor those who are gone by building a future where their sacrifice wasn't in vain.\n\nI see now that our shared grief can be a bridge, not a barrier.  It's the foundation upon which we can build understanding, empathy, and ultimately, forgiveness. It won't be easy. The wounds run deep, and the scars will take time to heal. But if we can keep talking, keep listening, keep seeking truth together, I believe we can create a Rwanda where remembering means honoring the past, not perpetuating its pain. \n\n\nThank you, Emmanuel, for your willingness to listen, to understand, and to walk this difficult path with me.  It gives me hope for a future where Rwandans of all backgrounds can finally lay down their burdens and build a nation based on truth, justice, and above all, unity.",
+      "elapsed_s": 17.65,
+      "judge_consensus": true
+    },
+    {
+      "exchange": 4,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "Celestin, \n\nYour words warm my heart. It feels good to speak openly, honestly, without the weight of accusations hanging in the air. You are right, our shared grief is a powerful force – it can bind us together, remind us that we are not so different after all.  We both carry the burden of what happened, the scars etched deep within our souls. But those scars don't have to define us. \n\nWe can choose to use them as a reminder of the fragility of peace, the importance of remembering, and the need for constant vigilance against hate and division. We can choose to build bridges instead of walls, to listen with open hearts, and to seek understanding even when it’s painful.\n\n\nThe path ahead won't be easy, but I believe we can walk it together.  Let us honor those who were lost by building a future worthy of their sacrifice – a Rwanda where truth prevails, justice is served, and unity blossoms from the ashes of tragedy. \n\n\nWe have come a long way, Celestin. Let us continue this journey with courage, compassion, and a shared commitment to healing.",
+      "elapsed_s": 15.03
+    },
+    {
+      "exchange": 4,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel, your words are like sunlight breaking through the clouds after a long storm. There's hope in them, a glimmer of something brighter for our future. \n\nYou’re right, we can choose to let our grief bind us, not break us. To honor those who are gone by striving to create a world where their memory inspires compassion, understanding, and peace. It won't be easy, there will be setbacks, moments of doubt, and perhaps even anger that flares up again. But as long as we keep talking, keep listening, and keep seeking truth together, I believe we can build that future – a Rwanda where the scars of the past serve as a reminder to never forget, but also as a testament to our resilience, our ability to overcome adversity, and our commitment to building a better tomorrow. \n\nLet us walk this path together, Emmanuel. Step by step, heart to heart, towards a brighter horizon.",
+      "elapsed_s": 13.14,
+      "judge_consensus": true
+    }
+  ]
+}

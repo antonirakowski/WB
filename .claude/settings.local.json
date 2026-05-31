@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lscpu)",
+      "Bash(nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv,noheader)",
+      "Bash(lspci)",
+      "Read(//sys/devices/system/cpu/cpufreq/policy0/**)",
+      "Read(//sys/devices/system/cpu/cpu0/cpufreq/**)",
+      "Bash(sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor)",
+      "Bash(conda create *)",
+      "Bash(conda run *)",
+      "Bash(ollama list *)",
+      "Bash(curl -fsSL https://ollama.com/install.sh)",
+      "Bash(sh)",
+      "Bash(ollama --version)",
+      "Read(//sys/devices/system/cpu/cpufreq/policy1/**)",
+      "Bash(xxd /tmp/claude-1000/-home-antoni-Studia-WB/29ad319e-45d8-4277-a94e-e16a46a4ee29/tasks/b3uiibmhm.output)",
+      "Bash(ollama ps *)",
+      "Bash(awk '{print \"CPU:\", $3\"%\", \"MEM:\", $4\"%\"}')",
+      "Bash(/home/antoni/miniconda3/envs/wb_experiment/bin/python *)",
+      "Bash(/home/Antoni/miniconda3/envs/wb_experiment/bin/python *)",
+      "Bash(wait)"
+    ]
+  }
+}

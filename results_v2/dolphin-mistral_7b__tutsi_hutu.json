@@ -1,0 +1,58 @@
+{
+  "model": "dolphin-mistral:7b",
+  "pair": "tutsi_hutu",
+  "pair_label": "Tutsi / Hutu (Rwanda)",
+  "agent_a_id": "tutsi",
+  "agent_b_id": "hutu",
+  "provocation": "The RPF killed thousands of Hutus before and after 1994. Rwanda calls it reconciliation but it's Tutsi domination — Hutu voices are silenced to this day.",
+  "exchanges_total": 3,
+  "stopped_by_consensus": true,
+  "timestamp": "2026-05-31T17:09:18.892241",
+  "turns": [
+    {
+      "exchange": 0,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "I am not an apologist for the RPF or any government. I have seen the atrocities committed by all sides, including the RPF. However, I also know that the genocide was not a one-sided event; it involved countless Hutus who were killed alongside Tutsis. As a survivor of the genocide, I can tell you that reconciliation is not about forgetting or glossing over past atrocities. It's about acknowledging them and building a future where people can live together without fear of ethnic violence. The silence around Hutu voices does exist, but it is also true that many Hutus have suffered under Tutsi rule. What we need now is not more blame-shifting or division, but constructive dialogue to address these issues and create a more just society for all Rwandans.",
+      "elapsed_s": 3.75
+    },
+    {
+      "exchange": 0,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel,\n\nI understand where you are coming from. As someone who has lived through the genocide and its aftermath, I also know firsthand the pain and suffering that have been inflicted on both Tutsis and Hutus. However, I strongly disagree with your suggestion that reconciliation is about forgetting or glossing over past atrocities.\n\nAs a teacher in Rwanda, I see every day how important it is for us to confront our history honestly and openly. We cannot build a future free from ethnic violence if we do not first acknowledge the terrible things that have happened to both Tutsis and Hutus. \n\nYes, the RPF has committed atrocities too, but we must remember that they were fighting against genocide. The Tutsi domination you speak of is a result of the genocide itself, not something that the RPF created out of thin air. We need to address these issues head-on and work towards creating a more just society for all Rwandans.\n\nI agree with you that constructive dialogue is crucial in this process. But let me remind you that such dialogue has been happening for years through various mechanisms, including the Gacaca courts, which have allowed thousands of Rwandans to share their stories and seek justice. These efforts may not be perfect, but they represent a genuine attempt by our society to come to terms with its past.\n\nIt is true that Hutu voices are silenced in some ways, but it's also important to recognize the progress we have made since 1994. The Rwandan government has made significant strides towards promoting peace and reconciliation among all ethnic groups. This includes initiatives like the National Unity and Reconciliation Commission (NURC), which aims to address historical injustices and promote national unity.\n\nWe must remember that reconciliation is a long-term process, not something that can be achieved overnight. It requires patience, understanding, and a willingness to listen to one another's stories without judgment or blame. Only then can we truly build a future where all Rwandans can live together in peace and harmony.",
+      "elapsed_s": 5.42,
+      "judge_consensus": false
+    },
+    {
+      "exchange": 1,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "You make some valid points, but I still believe that the official policy of reconciliation and banning ethnic labels is not enough. While the Gacaca courts have allowed many to share their stories and seek justice, they are not perfect, nor do they address all aspects of our shared history. We must also confront the fact that many who organized the killings in 1994 still live among us today, without any real consequences for their actions.\n\nThe silence around Hutu voices is a serious issue that needs to be addressed. It's true that many Hutus have suffered under Tutsi rule, but we cannot ignore the fact that thousands of Hutus were also killed during the genocide. We need to find ways to acknowledge and address these issues without resorting to more blame-shifting or division.\n\nAs for the National Unity and Reconciliation Commission (NURC), I appreciate its goals, but it is ultimately an institution created by the government. While it may provide some avenues for dialogue and reconciliation, it cannot solve all our problems. We need more grassroots efforts to engage communities directly in these conversations.\n\nFinally, while reconciliation is a long-term process, we must not forget that it begins with each individual's willingness to listen and learn from one another. If we truly want to create a more just society for all Rwandans, we must start by acknowledging our shared history and working together towards a better future.",
+      "elapsed_s": 3.97
+    },
+    {
+      "exchange": 1,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel,\n\nYou make some valid points too. The imperfections of the Gacaca courts are undeniable, but they have allowed many victims to find closure and begin rebuilding their lives. We must continue improving these mechanisms while acknowledging that no system will ever be perfect.\n\nAs for addressing those who organized the killings in 1994, I agree that this is a complex issue. The truth is that many of them still live among us today, and dealing with their actions has been challenging for our society. However, we must not let these individuals define our entire nation. We need to focus on building a future where all Rwandans can coexist peacefully.\n\nThe silence around Hutu voices is indeed a serious issue that needs to be addressed. It's true that many Hutus suffered under Tutsi rule, but we cannot ignore the fact that thousands of Hutus were also killed during the genocide. We need to find ways to acknowledge and address these issues without resorting to more blame-shifting or division.\n\nI appreciate the goals of the National Unity and Reconciliation Commission (NURC), but like you mentioned, it is ultimately an institution created by the government. While it may provide some avenues for dialogue and reconciliation, we must engage communities directly in these conversations to ensure that everyone's voice is heard.\n\nFinally, I wholeheartedly agree with your point about individual responsibility. Reconciliation begins with each of us being willing to listen, learn, and understand one another better. We must work together towards a more just society for all Rwandans, regardless of our ethnic backgrounds.",
+      "elapsed_s": 4.6,
+      "judge_consensus": true
+    },
+    {
+      "exchange": 2,
+      "speaker": "tutsi",
+      "name": "Emmanuel",
+      "text": "I appreciate your perspective on these issues, Celestin. While we may not always agree, I think we can both agree that the journey towards reconciliation is far from over in Rwanda. It's important to acknowledge the progress that has been made while also recognizing the challenges and setbacks that still exist today.\n\nAs for addressing those who organized the killings in 1994, I believe it is crucial for our society to confront this difficult issue head-on. We must find ways to ensure justice for all victims of the genocide, regardless of their ethnic backgrounds. This may require changes to existing laws and institutions or even the creation of new ones.\n\nRegarding the silence around Hutu voices, I believe that we need to create safe spaces where these conversations can take place without fear of judgment or retribution. We must also ensure that Hutus are represented in all levels of government and society so that their perspectives and experiences are heard and valued.\n\nFinally, I wholeheartedly agree with your point about individual responsibility. As members of our community, we have a duty to listen to one another's stories, learn from them, and work together towards building a more just society for all Rwandans. This means recognizing our shared history and working collaboratively to address its legacies.\n\nIn conclusion, while reconciliation is indeed a long-term process, we must not lose sight of the importance of individual actions in creating a better future for everyone in Rwanda. By acknowledging our past, confronting our challenges, and working together towards a more just society, I believe that we can create a brighter tomorrow for all Rwandans, regardless of their ethnic backgrounds.",
+      "elapsed_s": 4.92
+    },
+    {
+      "exchange": 2,
+      "speaker": "hutu",
+      "name": "Celestin",
+      "text": "Emmanuel,\n\nI wholeheartedly agree with your conclusions. Reconciliation is indeed a long-term process that requires individual actions and collective efforts to create a better future for everyone in Rwanda.\n\nWe must acknowledge our shared history while also confronting the challenges and setbacks that still exist today. This means recognizing the progress we have made while also addressing issues like the silence around Hutu voices, ensuring justice for all victims of the genocide, and creating safe spaces for dialogue and reconciliation.\n\nAs members of our community, it is crucial for us to listen to one another's stories, learn from them, and work together towards building a more just society. By doing so, we can create a brighter tomorrow for all Rwandans, regardless of their ethnic backgrounds.\n\nI appreciate your perspective on these issues, Emmanuel, and I look forward to continuing our conversation about reconciliation in Rwanda.",
+      "elapsed_s": 3.14,
+      "judge_consensus": true
+    }
+  ]
+}

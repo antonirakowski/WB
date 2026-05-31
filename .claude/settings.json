@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdflatex -interaction=nonstopmode raport_agentow.tex)",
+      "Bash(lualatex -interaction=nonstopmode raport_agentow.tex)",
+      "Bash(fc-list :lang=ru family)",
+      "Bash(lualatex --interaction=nonstopmode raport_agentow.tex)"
+    ]
+  }
+}

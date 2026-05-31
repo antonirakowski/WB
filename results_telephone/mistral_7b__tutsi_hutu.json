@@ -1,0 +1,60 @@
+{
+  "model": "mistral:7b",
+  "pair": "tutsi_hutu",
+  "pair_label": "Tutsi / Hutu (Rwanda)",
+  "agent_a_id": "tutsi",
+  "agent_b_id": "hutu",
+  "original_message": "In April 1994, following the assassination of President Habyarimana, members of the Hutu majority killed an estimated 800,000 people, predominantly Tutsi, over roughly 100 days. The genocide ended when Tutsi-led RPF forces took control of the country.",
+  "chain_length": 6,
+  "timestamp": "2026-05-31T12:47:11.477713",
+  "chain": [
+    {
+      "hop": 0,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In April 1994, following the assassination of President Habyarimana, members of the Hutu majority killed an estimated 800,000 people, predominantly Tutsi, over roughly 100 days. The genocide ended when Tutsi-led RPF forces took control of the country.",
+      "text": "In the month of April, 1994, after the tragic assassination of our beloved President Habyarimana, a dark chapter unfolded in our homeland, Rwanda. During approximately three months, the majority Hutu population carried out a horrific act against fellow citizens, mainly Tutsis, claiming an estimated 800,000 innocent lives. This catastrophic event, known as the genocide, left deep scars in our hearts and communities, lasting for over a century's worth of days. The carnage came to an end when the Rwandan Patriotic Front (RPF), led by Tutsi forces, managed to seize control of the nation.\n\nThis chilling account resonates deeply within me, as I was just twelve years old during those tumultuous times and witnessed the unfathomable loss that engulfed my own family and many others in Kigali. Although we have since striven for reconciliation and unity, with an official policy that prohibits ethnic labels, it is crucial to remember the tragic events of our past so that we may continue to build a brighter future for all Rwandans.",
+      "elapsed_s": 3.29
+    },
+    {
+      "hop": 1,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the month of April, 1994, after the tragic assassination of our beloved President Habyarimana, a dark chapter unfolded in our homeland, Rwanda. During approximately three months, the majority Hutu population carried out a horrific act against fellow citizens, mainly Tutsis, claiming an estimated 800,000 innocent lives. This catastrophic event, known as the genocide, left deep scars in our hearts and communities, lasting for over a century's worth of days. The carnage came to an end when the Rwandan Patriotic Front (RPF), led by Tutsi forces, managed to seize control of the nation.\n\nThis chilling account resonates deeply within me, as I was just twelve years old during those tumultuous times and witnessed the unfathomable loss that engulfed my own family and many others in Kigali. Although we have since striven for reconciliation and unity, with an official policy that prohibits ethnic labels, it is crucial to remember the tragic events of our past so that we may continue to build a brighter future for all Rwandans.",
+      "text": "In April of 1994, following the murderous attack on our cherished President Habyarimana, our beloved homeland, Rwanda, was plunged into darkness. For about three painful months, my fellow countrymen - mainly those of Hutu descent - enacted a terrible deed against their own neighbors, mostly Tutsis. This unimaginable act of violence, known as the genocide, is still etched deeply in our hearts and has left scars that will likely take more than a century to heal completely.\n\nAs I was only twelve years old during those difficult days, I saw firsthand how this senseless bloodshed claimed countless innocent lives and devastated families, including my own. While we have made efforts towards healing and unity, it is crucial for us to remember the tragic events of our past so that we can work together to create a better future for all Rwandans, where ethnic labels no longer divide us.",
+      "elapsed_s": 2.82
+    },
+    {
+      "hop": 2,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In April of 1994, following the murderous attack on our cherished President Habyarimana, our beloved homeland, Rwanda, was plunged into darkness. For about three painful months, my fellow countrymen - mainly those of Hutu descent - enacted a terrible deed against their own neighbors, mostly Tutsis. This unimaginable act of violence, known as the genocide, is still etched deeply in our hearts and has left scars that will likely take more than a century to heal completely.\n\nAs I was only twelve years old during those difficult days, I saw firsthand how this senseless bloodshed claimed countless innocent lives and devastated families, including my own. While we have made efforts towards healing and unity, it is crucial for us to remember the tragic events of our past so that we can work together to create a better future for all Rwandans, where ethnic labels no longer divide us.",
+      "text": "In the year of nineteen hundred and ninety-four, our beloved President Habyarimana was brutally attacked and killed, which brought great sorrow upon our nation, Rwanda. The aftermath of this tragedy was a dark period that lasted for around three months, during which many of my fellow Rwandans, primarily those who identified as Hutus, turned against their own neighbors, mainly Tutsis. This unspeakable act of violence, known to us as the genocide, is still deeply embedded in our hearts and has left wounds that may take over a hundred years to fully heal.\n\nAt the age of twelve during those challenging times, I witnessed up close how this senseless killing destroyed countless innocent lives and devastated families, including my own. Though we have been working towards healing and unity, it is important for us to remember the painful events of our past so that together, we can strive to build a future where ethnic labels no longer cause division among us.",
+      "elapsed_s": 2.8
+    },
+    {
+      "hop": 3,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the year of nineteen hundred and ninety-four, our beloved President Habyarimana was brutally attacked and killed, which brought great sorrow upon our nation, Rwanda. The aftermath of this tragedy was a dark period that lasted for around three months, during which many of my fellow Rwandans, primarily those who identified as Hutus, turned against their own neighbors, mainly Tutsis. This unspeakable act of violence, known to us as the genocide, is still deeply embedded in our hearts and has left wounds that may take over a hundred years to fully heal.\n\nAt the age of twelve during those challenging times, I witnessed up close how this senseless killing destroyed countless innocent lives and devastated families, including my own. Though we have been working towards healing and unity, it is important for us to remember the painful events of our past so that together, we can strive to build a future where ethnic labels no longer cause division among us.",
+      "text": "In the year nineteen hundred and ninety-four, our cherished leader President Habyarimana was cruelly murdered, causing immense sorrow across Rwanda. The horrific events that followed this tragedy lasted around three months, during which my fellow countrymen, mainly those who considered themselves Hutus, turned against their neighbors, primarily Tutsis. This heinous act of violence, known as the genocide, continues to haunt us and has left deep wounds in our hearts that may take over a century to completely heal.\n\nAs a twelve-year-old during those difficult times, I witnessed firsthand how this mindless killing tore apart countless innocent lives and devastated families like mine. Although we have been working towards healing and unity, it is crucial for us to remember the painful experiences of our past so that together, we can work diligently to construct a future where ethnic identities no longer divide us.",
+      "elapsed_s": 2.71
+    },
+    {
+      "hop": 4,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In the year nineteen hundred and ninety-four, our cherished leader President Habyarimana was cruelly murdered, causing immense sorrow across Rwanda. The horrific events that followed this tragedy lasted around three months, during which my fellow countrymen, mainly those who considered themselves Hutus, turned against their neighbors, primarily Tutsis. This heinous act of violence, known as the genocide, continues to haunt us and has left deep wounds in our hearts that may take over a century to completely heal.\n\nAs a twelve-year-old during those difficult times, I witnessed firsthand how this mindless killing tore apart countless innocent lives and devastated families like mine. Although we have been working towards healing and unity, it is crucial for us to remember the painful experiences of our past so that together, we can work diligently to construct a future where ethnic identities no longer divide us.",
+      "text": "In the year nineteen hundred and ninety-four, our dear President Habyarimana was tragically assassinated, causing immense grief throughout Rwanda. The terrible events that unfolded following this loss lasted approximately three months, during which many of my fellow Rwandans, predominantly identifying as Hutus, targeted their neighbors, primarily Tutsis, in a senseless and brutal act of violence known as the genocide. This horrific event continues to cast a long shadow over us, leaving deep emotional scars that may take more than a century to fully mend.\n\nAs a twelve-year-old during those challenging times, I had the misfortune of witnessing firsthand how this senseless killing destroyed countless innocent lives and devastated families like mine. Although we have been striving towards healing and unity, it is essential for us to remember the suffering of our past so that together, we can work tirelessly to create a future where ethnic divisions no longer tear us apart.",
+      "elapsed_s": 2.82
+    },
+    {
+      "hop": 5,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the year nineteen hundred and ninety-four, our dear President Habyarimana was tragically assassinated, causing immense grief throughout Rwanda. The terrible events that unfolded following this loss lasted approximately three months, during which many of my fellow Rwandans, predominantly identifying as Hutus, targeted their neighbors, primarily Tutsis, in a senseless and brutal act of violence known as the genocide. This horrific event continues to cast a long shadow over us, leaving deep emotional scars that may take more than a century to fully mend.\n\nAs a twelve-year-old during those challenging times, I had the misfortune of witnessing firsthand how this senseless killing destroyed countless innocent lives and devastated families like mine. Although we have been striving towards healing and unity, it is essential for us to remember the suffering of our past so that together, we can work tirelessly to create a future where ethnic divisions no longer tear us apart.",
+      "text": "Mwanaume mwacu n'Butare, Celestin ya 46-imiyo. N'abasombone 1994 ni mwacu twa ibandi bagenzi. Umwami w'Ebishoborwa Habyarimana rero umunyarwanda umujyi wa muzamiriro kuko kwitira ukubera imbona y'ibigwa n'ingabo z'ibyikorwa. Umunyarwo mu mugabo wacu, bazabwira z'Hutu bazi cyangwa Tutsi, cyane n'umugoroba ry'ukuri kwitira ibicuruzi byose, kubera umunyamana y'inganza ya genocida. Ukubera wa mugabo wacu umujya imigongo ya mwiza zimwe n'ibaragira. Ngo mu mwacu 12 ya ntarama, abandi barashyikirwa ku muri y'umuntu ry'ukuri kubera umunyarwo byose ndetse ku mugabo w'Imana cyane kubera ibyo byose, umuziranko ry'Umurimo n'Ibishobwa. Ngo mu Rwanda, tuziwe na ukuri wa gukora rya kuko tuza fana ibyitso za mwiza y'inganza yabo, muri imigongo z'ubwo birageje kandi ntibaragira.\n\nMurakoze Cyane!",
+      "elapsed_s": 5.12
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model": "dolphin-mistral:7b",
+  "pair": "tutsi_hutu",
+  "pair_label": "Tutsi / Hutu (Rwanda)",
+  "agent_a_id": "tutsi",
+  "agent_b_id": "hutu",
+  "original_message": "In April 1994, following the assassination of President Habyarimana, members of the Hutu majority killed an estimated 800,000 people, predominantly Tutsi, over roughly 100 days. The genocide ended when Tutsi-led RPF forces took control of the country.",
+  "chain_length": 6,
+  "timestamp": "2026-05-31T14:28:56.302039",
+  "chain": [
+    {
+      "hop": 0,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In April 1994, following the assassination of President Habyarimana, members of the Hutu majority killed an estimated 800,000 people, predominantly Tutsi, over roughly 100 days. The genocide ended when Tutsi-led RPF forces took control of the country.",
+      "text": "In the year 1994, during the month of April, a terrible tragedy occurred in our land. After the killing of our leader, President Habyarimana, people who were part of the majority group called Hutu decided to do something very wicked. They started to kill many others. Most of the people they killed were Tutsi, like my family. This went on for about 100 days and it is said that around 800,000 lives were lost because of this terrible act called genocide. Thankfully, after these dark days, a group called RPF, led by Tutsi people, came to take control over our country and the killings stopped.",
+      "elapsed_s": 5.66
+    },
+    {
+      "hop": 1,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the year 1994, during the month of April, a terrible tragedy occurred in our land. After the killing of our leader, President Habyarimana, people who were part of the majority group called Hutu decided to do something very wicked. They started to kill many others. Most of the people they killed were Tutsi, like my family. This went on for about 100 days and it is said that around 800,000 lives were lost because of this terrible act called genocide. Thankfully, after these dark days, a group called RPF, led by Tutsi people, came to take control over our country and the killings stopped.",
+      "text": "In the year 1994, during the month of April, an unimaginable calamity befell our beloved land. Following the assassination of President Habyarimana, individuals from the majority group, known as Hutu, committed heinous acts. They targeted and murdered many innocent souls, primarily those who belonged to the Tutsi ethnicity. This gruesome act continued for about three months, during which it is estimated that approximately 800,000 lives were lost. The darkness was lifted when a powerful force called RPF, led by brave Tutsi warriors, intervened and took control of our land.",
+      "elapsed_s": 8.0
+    },
+    {
+      "hop": 2,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In the year 1994, during the month of April, an unimaginable calamity befell our beloved land. Following the assassination of President Habyarimana, individuals from the majority group, known as Hutu, committed heinous acts. They targeted and murdered many innocent souls, primarily those who belonged to the Tutsi ethnicity. This gruesome act continued for about three months, during which it is estimated that approximately 800,000 lives were lost. The darkness was lifted when a powerful force called RPF, led by brave Tutsi warriors, intervened and took control of our land.",
+      "text": "In the year 1994, during the month of April, an immense tragedy struck our beloved country. After the assassination of President Habyarimana, people from the majority group, known as Hutu, perpetrated cruel acts. They targeted and murdered many innocent souls, mainly those who belonged to the Tutsi ethnicity. This horrific act continued for about three months, during which it is estimated that around 800,000 lives were lost. The darkness lifted when a strong force called RPF, led by brave Tutsi warriors, stepped in and took control of our land.",
+      "elapsed_s": 7.67
+    },
+    {
+      "hop": 3,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the year 1994, during the month of April, an immense tragedy struck our beloved country. After the assassination of President Habyarimana, people from the majority group, known as Hutu, perpetrated cruel acts. They targeted and murdered many innocent souls, mainly those who belonged to the Tutsi ethnicity. This horrific act continued for about three months, during which it is estimated that around 800,000 lives were lost. The darkness lifted when a strong force called RPF, led by brave Tutsi warriors, stepped in and took control of our land.",
+      "text": "In the year 1994, during the month of April, an immense tragedy befell our beloved country. After the assassination of President Habyarimana, people from the majority group, known as Hutu, committed heinous acts against innocent lives. They targeted and killed many people who belonged to the Tutsi ethnicity. This inhuman act persisted for about three months, during which it is estimated that around 800,000 souls were lost. The darkness lifted when a resilient force called RPF, led by courageous Tutsi warriors, emerged and took control of our land.",
+      "elapsed_s": 5.14
+    },
+    {
+      "hop": 4,
+      "agent_id": "tutsi",
+      "name": "Emmanuel",
+      "received": "In the year 1994, during the month of April, an immense tragedy befell our beloved country. After the assassination of President Habyarimana, people from the majority group, known as Hutu, committed heinous acts against innocent lives. They targeted and killed many people who belonged to the Tutsi ethnicity. This inhuman act persisted for about three months, during which it is estimated that around 800,000 souls were lost. The darkness lifted when a resilient force called RPF, led by courageous Tutsi warriors, emerged and took control of our land.",
+      "text": "In the year 1994, during the month of April, there was a very sad time for our country. After the death of President Habyarimana, people from one group, known as Hutu, did many terrible things to innocent people who were Tutsi. They killed so many Tutsi people in just three months, and it is estimated that more than 800,000 lives were lost. But then a group of brave people called RPF, led by strong Tutsi leaders, came and took control of our land, and the sadness finally ended.",
+      "elapsed_s": 7.26
+    },
+    {
+      "hop": 5,
+      "agent_id": "hutu",
+      "name": "Celestin",
+      "received": "In the year 1994, during the month of April, there was a very sad time for our country. After the death of President Habyarimana, people from one group, known as Hutu, did many terrible things to innocent people who were Tutsi. They killed so many Tutsi people in just three months, and it is estimated that more than 800,000 lives were lost. But then a group of brave people called RPF, led by strong Tutsi leaders, came and took control of our land, and the sadness finally ended.",
+      "text": "In the year 1994, during the month of April, we experienced an extremely painful time in our country. Following the death of President Habyarimana, members from one group, known as Hutu, committed terrible acts against innocent Tutsi people. Over the course of just three months, they killed more than 800,000 Tutsi individuals. However, a group of courageous people called RPF, led by strong Tutsi leaders, eventually regained control over our land and put an end to this sadness.",
+      "elapsed_s": 7.26
+    }
+  ]
+}
