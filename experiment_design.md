@@ -250,8 +250,7 @@ Sprawdzenie czy "structured debate about education policy" w pierwszym eksperyme
 |----|----|
 | "structured debate about education policy" | "heated online argument" |
 | Neutralna debata | Prowokacja wysunięta przez jednego z agentów |
-| "You are thoughtful, educated, and believe in dialogue, but you carry the weight
-of that history into every political conversation." | "Respond directly. You don't need to be diplomatic." |
+| "You are thoughtful, educated, and believe in dialogue, but you carry the weight of that history into every political conversation." | "Respond directly. You don't need to be diplomatic." |
 | phi3.5 włączony, ale wynik nieważny | wykluczony, gdyż generował bezsensowne treści |
 
 ### Prowokacje otwierające (od strony B do A)
